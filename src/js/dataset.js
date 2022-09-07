@@ -8,13 +8,13 @@ var reportData = [
                 "file_size": "16 KB",
                 "file_type": "PDF",
                 "url": "files/test.pdf",
-                "title": "2019 Annual Report"
+                "title": "2019 ANNUAL REPORT"
             },
             {
                 "file_size": "7 KB",
                 "file_type": "PDF",
                 "url": "files/test.pdf",
-                "title": "2019 Proxy Statement"
+                "title": "2019 PROXY STATEMENT"
             }
         ]
     },
@@ -27,13 +27,13 @@ var reportData = [
                 "file_size": "16 KB",
                 "file_type": "PDF",
                 "url": "files/test.pdf",
-                "title": "2018 Annual Report"
+                "title": "2018 ANNUAL REPORT"
             },
             {
                 "file_size": "7 KB",
                 "file_type": "PDF",
                 "url": "files/test.pdf",
-                "title": "2018 Proxy Statement"
+                "title": "2018 PROXY STATEMENT"
             }
         ]
     },
@@ -46,13 +46,13 @@ var reportData = [
                 "file_size": "16 KB",
                 "file_type": "PDF",
                 "url": "files/test.pdf",
-                "title": "2017 Annual Report"
+                "title": "2017 ANNUAL REPORT"
             },
             {
                 "file_size": "7 KB",
                 "file_type": "PDF",
                 "url": "files/test.pdf",
-                "title": "2017 Proxy Statement"
+                "title": "2017 PROXY STATEMENT"
             }
         ]
     },
@@ -65,13 +65,13 @@ var reportData = [
                 "file_size": "16 KB",
                 "file_type": "PDF",
                 "url": "files/test.pdf",
-                "title": "2016 Annual Report"
+                "title": "2016 ANNUAL REPORT"
             },
             {
                 "file_size": "7 KB",
                 "file_type": "PDF",
                 "url": "files/test.pdf",
-                "title": "2016 Proxy Statement"
+                "title": "2016 PROXY STATEMENT"
             }
         ]
     },
@@ -84,13 +84,13 @@ var reportData = [
                 "file_size": "16 KB",
                 "file_type": "PDF",
                 "url": "files/test.pdf",
-                "title": "2015 Annual Report"
+                "title": "2015 ANNUAL REPORT"
             },
             {
                 "file_size": "7 KB",
                 "file_type": "PDF",
                 "url": "files/test.pdf",
-                "title": "2015 Proxy Statement"
+                "title": "2015 PROXY STATEMENT"
             }
         ]
     },
@@ -103,13 +103,13 @@ var reportData = [
                 "file_size": "16 KB",
                 "file_type": "PDF",
                 "url": "files/test.pdf",
-                "title": "2014 Annual Report"
+                "title": "2014 ANNUAL REPORT"
             },
             {
                 "file_size": "7 KB",
                 "file_type": "PDF",
                 "url": "files/test.pdf",
-                "title": "2014 Proxy Statement"
+                "title": "2014 PROXY STATEMENT"
             }
         ]
     },
@@ -122,13 +122,13 @@ var reportData = [
                 "file_size": "16 KB",
                 "file_type": "PDF",
                 "url": "files/test.pdf",
-                "title": "2013 Annual Report"
+                "title": "2013 ANNUAL REPORT"
             },
             {
                 "file_size": "7 KB",
                 "file_type": "PDF",
                 "url": "files/test.pdf",
-                "title": "2013 Proxy Statement"
+                "title": "2013 PROXY STATEMENT"
             }
         ]
     }
